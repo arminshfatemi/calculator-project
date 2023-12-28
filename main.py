@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Entry, END, Button
 
 root = Tk()
 
